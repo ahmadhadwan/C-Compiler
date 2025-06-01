@@ -14,5 +14,5 @@ make
 
 2.
 ```bash
-./bin/cc [filename].c
+./bin/cc --help
 ```
