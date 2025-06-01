@@ -7,10 +7,12 @@ This is a C compiler made for educational purposes.
 
 # Building
 
-1. ```bash
+1.
+```bash
 make
 ```
 
-2. ```bash
+2.
+```bash
 ./bin/cc [filename].c
 ```
